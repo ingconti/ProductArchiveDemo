@@ -1,0 +1,4 @@
+pasta	100
+latte	200
+pomodoro	300
+tonno	400
